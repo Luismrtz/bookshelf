@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  --font-ibm-plex-sans: "IBM Plex Sans", sans-serif;
+  --font-sans: var(--ibm-sans);
   --font-bebas-neue: var(--bebas-neue);
 
   --color-background: hsl(0 0% 100%);
